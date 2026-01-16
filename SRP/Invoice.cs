@@ -6,18 +6,19 @@ namespace SolidPrinciples
     /// </summary>
     public class Invoice
     {
-        public decimal SubTotal { get; set; }
+        public decimal Subtotal { get; set; }
         public decimal TaxRate { get; set; }
+        public decimal Total { get; set; }
 
         public decimal CalculateTax()
         {
-            return SubTotal * TaxRate / 100;
+            return Subtotal * TaxRate / 100;
         }
 
         // first single responsibility violation
         public decimal CalculateTotal()
         {
-            return SubTotal + CalculateTax();
+            return Subtotal + CalculateTax();
         }
 
         // second single responsibility violation
