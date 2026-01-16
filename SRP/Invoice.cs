@@ -7,8 +7,7 @@ namespace SolidPrinciples
     public class Invoice
     {
         public decimal Subtotal { get; set; }
-        public decimal TaxRate { get; set; }
-        public decimal Total { get; set; }
+        public decimal TaxRate { get; set; } 
 
         public decimal CalculateTax()
         {
