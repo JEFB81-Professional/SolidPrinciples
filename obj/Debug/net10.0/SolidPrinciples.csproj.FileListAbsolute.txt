@@ -1,0 +1,14 @@
+D:\VisualStudioCode\Solid-Priciples\SolidPrinciples\bin\Debug\net10.0\SolidPrinciples.exe
+D:\VisualStudioCode\Solid-Priciples\SolidPrinciples\bin\Debug\net10.0\SolidPrinciples.deps.json
+D:\VisualStudioCode\Solid-Priciples\SolidPrinciples\bin\Debug\net10.0\SolidPrinciples.runtimeconfig.json
+D:\VisualStudioCode\Solid-Priciples\SolidPrinciples\bin\Debug\net10.0\SolidPrinciples.dll
+D:\VisualStudioCode\Solid-Priciples\SolidPrinciples\bin\Debug\net10.0\SolidPrinciples.pdb
+D:\VisualStudioCode\Solid-Priciples\SolidPrinciples\obj\Debug\net10.0\SolidPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioCode\Solid-Priciples\SolidPrinciples\obj\Debug\net10.0\SolidPrinciples.AssemblyInfoInputs.cache
+D:\VisualStudioCode\Solid-Priciples\SolidPrinciples\obj\Debug\net10.0\SolidPrinciples.AssemblyInfo.cs
+D:\VisualStudioCode\Solid-Priciples\SolidPrinciples\obj\Debug\net10.0\SolidPrinciples.csproj.CoreCompileInputs.cache
+D:\VisualStudioCode\Solid-Priciples\SolidPrinciples\obj\Debug\net10.0\SolidPrinciples.dll
+D:\VisualStudioCode\Solid-Priciples\SolidPrinciples\obj\Debug\net10.0\refint\SolidPrinciples.dll
+D:\VisualStudioCode\Solid-Priciples\SolidPrinciples\obj\Debug\net10.0\SolidPrinciples.pdb
+D:\VisualStudioCode\Solid-Priciples\SolidPrinciples\obj\Debug\net10.0\SolidPrinciples.genruntimeconfig.cache
+D:\VisualStudioCode\Solid-Priciples\SolidPrinciples\obj\Debug\net10.0\ref\SolidPrinciples.dll
