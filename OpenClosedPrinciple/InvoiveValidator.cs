@@ -1,6 +1,6 @@
-using System.Linq;
+using SolidPrinciples.SingleResponsibilityPrinciple;
 
-namespace SolidPrinciples.OCP
+namespace SolidPrinciples.OpenClosedPrinciple
 {
     /// <summary>
     /// The InvoiveValidator class adheres to the Open/Closed Principle by being open for extension but closed for modification.

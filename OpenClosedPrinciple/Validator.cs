@@ -1,4 +1,6 @@
-namespace SolidPrinciples.OCP
+using SolidPrinciples.SingleResponsibilityPrinciple;
+
+namespace SolidPrinciples.OpenClosedPrinciple
 {
     /// <summary>
     /// The Validator class serves as a base for different types of validators, adhering to the Open/Closed Principle.

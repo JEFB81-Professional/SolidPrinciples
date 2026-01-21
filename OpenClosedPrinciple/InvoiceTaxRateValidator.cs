@@ -1,4 +1,6 @@
-namespace SolidPrinciples.OCP
+using SolidPrinciples.SingleResponsibilityPrinciple;
+
+namespace SolidPrinciples.OpenClosedPrinciple
 {
     public class InvoiceTaxRateValidator : Validator
     {

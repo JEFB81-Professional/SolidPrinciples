@@ -1,4 +1,4 @@
-namespace SolidPrinciples
+namespace SolidPrinciples.SingleResponsibilityPrinciple
 {
     /// <summary>
     /// the Invoice class adheres to the Single Responsibility Principle by focusing solely on invoice-related operations.

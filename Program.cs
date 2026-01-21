@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using SolidPrinciples;
-using SolidPrinciples.OCP;
+using SolidPrinciples.OpenClosedPrinciple;
+using SolidPrinciples.SingleResponsibilityPrinciple;
 
 
 // Create an invoice instance for validation with object-oriented validators
